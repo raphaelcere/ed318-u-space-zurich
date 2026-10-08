@@ -2,36 +2,36 @@
     "type": "Feature",
     "id": "a5953add-02fe-4029-a079-78a45863a054",
     "properties": {
-        "identifier": "DARZRH",
+        "identifier": "USPACEZRH",
         "country": "CHE",
         "name": [
             {
                 "lang": "en-GB",
-                "text": "DAR Zurich"
+                "text": "U-space Zurich"
             }
         ],
-        "type": "PROHIBITED",
+        "type": "REQ_AUTHORISATION",
         "variant": "COMMON",
         "region": 0,
         "reason": [
-            "DAR"
+            "AIR_TRAFFIC"
         ],
         "message": [
             {
                 "lang": "de-CH",
-                "text": "Der Betrieb von unbemannten Luftfahrzeugen ist verboten"
+                "text": "U-space-Luftraum: Für den Betrieb unbemannter Luftfahrzeuge sind U-space-Dienste und eine Flugfreigabe erforderlich"
             },
             {
                 "lang": "fr-CH",
-                "text": "L'exploitation d'aéronefs sans occupants est interdite"
+                "text": "Espace aérien U-space : l'exploitation d'aéronefs sans occupants requiert les services U-space et une autorisation de vol"
             },
             {
                 "lang": "it-CH",
-                "text": "L'esercizio di aeromobili senza occupanti è vietato"
+                "text": "Spazio aereo U-space: l'esercizio di aeromobili senza occupanti richiede i servizi U-space e un'autorizzazione di volo"
             },
             {
                 "lang": "en-GB",
-                "text": "The operation of unmanned aircraft is prohibited"
+                "text": "U-space airspace: the operation of unmanned aircraft requires U-space services and a flight authorisation"
             }
         ],
         "zoneAuthority": [
@@ -71,19 +71,19 @@
             "addInfoText": [
                 {
                     "lang": "de-CH",
-                    "text": "Ausnahmebewilligungen können bei der zuständigen Stelle beantragt werden."
+                    "text": "Der Zugang zu den U-space-Diensten erfolgt über zertifizierte U-space-Dienstleister (USSP)."
                 },
                 {
                     "lang": "fr-CH",
-                    "text": "Des autorisations exceptionnelles peuvent être demandées auprès de l'autorité compétente."
+                    "text": "L'accès aux services U-space s'effectue auprès de prestataires de services U-space (USSP) certifiés."
                 },
                 {
                     "lang": "it-CH",
-                    "text": "I permessi d'esenzione possono essere richiesti all'autorità competente."
+                    "text": "L'accesso ai servizi U-space avviene tramite fornitori di servizi U-space (USSP) certificati."
                 },
                 {
                     "lang": "en-GB",
-                    "text": "Exemption permits may be applied for at the competent authority."
+                    "text": "U-space services are accessed through certified U-space service providers (USSP)."
                 }
             ],
             "dynamic": true
