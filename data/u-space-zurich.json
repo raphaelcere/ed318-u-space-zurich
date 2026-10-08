@@ -39,16 +39,16 @@
                 "name": [
                     {
                         "lang": "en-GB",
-                        "text": "Skyguide"
+                        "text": "Federal Office of Civil Aviation (FOCA)"
                     }
                 ],
                 "service": [
                     {
                         "lang": "en-GB",
-                        "text": "Skyguide Special Flight Office"
+                        "text": "Federal Office of Civil Aviation (FOCA)"
                     }
                 ],
-                "siteURL": "https://skyguide.ch/services/special-flights",
+                "siteURL": "https://www.bazl.admin.ch/bazl/en/home.html",
                 "purpose": "AUTHORIZATION"
             }
         ],
