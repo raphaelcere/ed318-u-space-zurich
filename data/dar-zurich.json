@@ -1,0 +1,113 @@
+{
+    "type": "Feature",
+    "id": "a5953add-02fe-4029-a079-78a45863a054",
+    "properties": {
+        "identifier": "DARZRH",
+        "country": "CHE",
+        "name": [
+            {
+                "lang": "en-GB",
+                "text": "DAR Zurich"
+            }
+        ],
+        "type": "PROHIBITED",
+        "variant": "COMMON",
+        "region": 0,
+        "reason": [
+            "DAR"
+        ],
+        "message": [
+            {
+                "lang": "de-CH",
+                "text": "Der Betrieb von unbemannten Luftfahrzeugen ist verboten"
+            },
+            {
+                "lang": "fr-CH",
+                "text": "L'exploitation d'aéronefs sans occupants est interdite"
+            },
+            {
+                "lang": "it-CH",
+                "text": "L'esercizio di aeromobili senza occupanti è vietato"
+            },
+            {
+                "lang": "en-GB",
+                "text": "The operation of unmanned aircraft is prohibited"
+            }
+        ],
+        "zoneAuthority": [
+            {
+                "name": [
+                    {
+                        "lang": "en-GB",
+                        "text": "Skyguide"
+                    }
+                ],
+                "service": [
+                    {
+                        "lang": "en-GB",
+                        "text": "Skyguide Special Flight Office"
+                    }
+                ],
+                "siteURL": "https://skyguide.ch/services/special-flights",
+                "purpose": "AUTHORIZATION"
+            }
+        ],
+        "limitedApplicability": [
+            {
+                "startDateTime": "2025-10-02T00:00:00Z",
+                "endDateTime": "2036-09-28T10:15:53.86752172+02:00"
+            }
+        ],
+        "dataSource": {
+            "creationDate": "2012-10-18T00:00:00Z",
+            "updateDateTime": "2012-10-18T00:00:00Z",
+            "originator": {
+                "lang": "en-GB",
+                "text": "Skyguide"
+            }
+        },
+        "extendedProperties": {
+            "active": false,
+            "addInfoText": [
+                {
+                    "lang": "de-CH",
+                    "text": "Ausnahmebewilligungen können bei der zuständigen Stelle beantragt werden."
+                },
+                {
+                    "lang": "fr-CH",
+                    "text": "Des autorisations exceptionnelles peuvent être demandées auprès de l'autorité compétente."
+                },
+                {
+                    "lang": "it-CH",
+                    "text": "I permessi d'esenzione possono essere richiesti all'autorità competente."
+                },
+                {
+                    "lang": "en-GB",
+                    "text": "Exemption permits may be applied for at the competent authority."
+                }
+            ],
+            "dynamic": true
+        }
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [8.345179438411252, 47.387373562244385],
+                [8.336985683390006, 47.45130006405109],
+                [8.464991262346754, 47.453383477842905],
+                [8.5719206439519, 47.39931459382704],
+                [8.579778819155292, 47.364156036215405],
+                [8.396438302689985, 47.36537225719862],
+                [8.345179438411252, 47.387373562244385]
+            ]
+        ],
+        "layer": {
+            "upper": 393.7008,
+            "upperReference": "AGL",
+            "lower": 0,
+            "lowerReference": "AGL",
+            "uom": "ft"
+        }
+    }
+}
