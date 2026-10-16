@@ -10,7 +10,7 @@
                 "text": "U-space Zurich"
             }
         ],
-        "type": "REQ_AUTHORISATION",
+        "type": "USPACE",
         "variant": "COMMON",
         "region": 0,
         "reason": [
@@ -49,7 +49,7 @@
                     }
                 ],
                 "siteURL": "https://www.bazl.admin.ch/bazl/en/home.html",
-                "purpose": "AUTHORIZATION"
+                "purpose": "INFORMATION"
             }
         ],
         "limitedApplicability": [
@@ -67,7 +67,6 @@
             }
         },
         "extendedProperties": {
-            "active": false,
             "addInfoText": [
                 {
                     "lang": "de-CH",
@@ -86,7 +85,7 @@
                     "text": "U-space services are accessed through certified U-space service providers (USSP)."
                 }
             ],
-            "dynamic": true
+            "dynamic": false
         }
     },
     "geometry": {
